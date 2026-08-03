@@ -4,6 +4,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
+#include <sys/reent.h>
 #include "esp_log.h"
 
 #include "bootloader_init.h"
